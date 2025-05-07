@@ -5,6 +5,6 @@ import tailwindcss from '@tailwindcss/vite'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [tailwindcss(),react()],
-  base: '/Bluefox-ReactJS-free-waitlist-template/',
+  base: '/test/',
   
 })
